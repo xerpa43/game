@@ -1,9 +1,13 @@
 This is a simple game which I created while learning React, It helped to understant react hooks in general.
 
 SO YOU HAVE TO GUESS A RANDOM WORD WHICH IS GENERATED EVERTIME THE PAGE LOADS
+
 ---WHAT ARE THOSE COLORS------
+
 YELLOW - THE LETTER IS IN THE WORD BUT IT'S IN WRONG POSITION
+
 GREEN - THE LETTER IS IN CORRECT POSITION
+
 BLACK - THAT LETTER IS'T IN THE WORD
 
 
